@@ -1,4 +1,3 @@
 # Enter your API keys
-gkey = "AIzaSyBz20KUAlMomKbveASo6YludPp1l4-u680"
+gkey = "AIzaSyD5Q1O7s_B8xlmIkjUwCskflt8Wsa0Bx8k"
 
-census_key = "YOUR KEY HERE!"
